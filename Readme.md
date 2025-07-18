@@ -24,7 +24,7 @@ A beautiful, modern AI chat application built by **Aarnav Anand** and powered by
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Aarnavanand/genai-chatbo
 cd aarnav-ai-chat
 ```
 
